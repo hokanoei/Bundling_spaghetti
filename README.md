@@ -1,5 +1,4 @@
-# Logarithmic kinetics and bundle formation 
-# in packings of elongated physical links
+# Logarithmic kinetics and bundle formation in packings of elongated physical links
 
 Code and data accompanying the paper: 
 
