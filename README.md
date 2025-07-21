@@ -3,6 +3,7 @@
 Code and data accompanying the paper: 
 
 Logarithmic kinetics and bundling in random packings of elongated 3D physical links
+
 Ivan Bonamassa, Balázs Ráth, Márton Pósfai, Miklós Abért, Dániel Keliger, Balázs Szegedy, János Kertész, László Lovász, and Albert-László Barabási
 
 PNAS 2025 - Vol. 122, No. X e2427145122, in press
